@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+
+@keyframes example {  
+	0% {background-color: crimson;}  
+	25% {background-color: lightsalmon;}  
+	50% {background-color: pink;}  
+	100% {background-color: indigo;}
+	}
